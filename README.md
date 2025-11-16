@@ -82,7 +82,7 @@ A: 输入AppID时用英文逗号分隔多个ID。
 贡献指南
 欢迎提交PR改进项目：
 
-Fork本项目
+Fork本项目由
 
 创建特性分支 (git checkout -b feature/AmazingFeature)
 
@@ -95,3 +95,5 @@ Fork本项目
 许可证
 
 本项目采用GNU General Public License v3开源许可证。
+
+by 空白
