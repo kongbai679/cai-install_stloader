@@ -78,12 +78,12 @@ def show_banner(backend: CaiBackend):
         r" \_______/ \_______/|__/      |__/|__/  |__/|_______/    \___/   \_______/|__/|__/",
     ]
     for line in banner: log.info(line)
-    log.info('软件作者:pvzcxw')
+    log.info('软件作者:空白')
     log.info('本项目采用GNU General Public License v3开源许可证, 请勿用于商业用途')
     log.info('Cai install XP版本：1.58p1')
     log.info('Cai install项目Github仓库: https://github.com/pvzcxw/cai-install_stloader')
-    log.warning('菜Games出品 本项目完全开源免费，作者b站:菜Games-pvzcxw,请多多赞助使用')
-    log.warning('官方Q群:993782526')
+    log.warning(' 本项目完全开源免费')
+   
     log.warning(
         'vdf writer v2  已接入自研manifest2lua se  DLC检索入库及输出帮助by B-I-A-O 创意工坊入库及不求人清单by ☆☆☆☆ 感谢其技术支持 提示：入库创意工坊只需选择修补创意工坊秘钥即可（stool自动下载清单）')
     log.info('App ID可以在SteamDB, SteamUI或Steam商店链接页面查看')
