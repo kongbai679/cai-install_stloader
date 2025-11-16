@@ -47,7 +47,7 @@ def show_info_dialog():
     pos_y = int(screen_height / 2 - window_height / 2)
     root.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
     root.resizable(False, False)
-    tk.Label(root, text="请加入官方群聊以获取最新公告及更新:\n993782526\n关注官方b站:菜Games-pvzcxw",
+    tk.Label(root, text="获取最新公告及更新:\n1617630161\n关注官方b站:是空白呀",
              font=("Arial", 12)).pack(pady=20)
     dont_show = tk.BooleanVar(value=False)
     tk.Checkbutton(root, text="不再显示此消息", variable=dont_show, font=("Arial", 10)).pack(pady=5)
